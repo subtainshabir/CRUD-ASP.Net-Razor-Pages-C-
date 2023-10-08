@@ -1,0 +1,42 @@
+﻿@page
+@model Student_Management.Pages.updateModel
+@{
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-5 justify-content-center">
+        <br />
+        <br />
+        <h1>Updae New Student</h1>
+        <hr />
+        <form class="row" method="post">
+            <div class="col-md-12">
+                <label class="form-label">Name</label>
+                <input class="form-control" asp-for="student.Name" />
+                <input class="form-control" asp-for="student.Id" hidden />
+            </div>
+            <div class="col-md-12">
+                <label class="form-label">Father Name</label>
+                <input asp-for="student.FatherName" class="form-control" />
+            </div>
+            <div class="col-md-12">
+                <label class="form-label">Email</label>
+                <input asp-for="student.Email" class="form-control" />
+            </div>
+            <div class="col-md-12">
+                <label class="form-label">Phone</label>
+                <input asp-for="student.phone" class="form-control" />
+            </div>
+            <div class="col-md-12">
+                <label class="form-label">Age</label>
+                <input asp-for="student.Age" class="form-control" />
+            </div>
+            <br />
+            <div class="col-md-12">
+                <br />
+                <input type="submit" value="Update Student" class="btn btn-success" />
+            </div>
+
+        </form>
+    </div>
+</div>

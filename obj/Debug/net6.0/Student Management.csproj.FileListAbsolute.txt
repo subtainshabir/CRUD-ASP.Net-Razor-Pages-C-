@@ -1,0 +1,87 @@
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\appsettings.Development.json
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\appsettings.json
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Student Management.staticwebassets.runtime.json
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Student Management.exe
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Student Management.deps.json
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Student Management.runtimeconfig.json
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Student Management.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Student Management.pdb
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.AssemblyInfoInputs.cache
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.AssemblyInfo.cs
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.csproj.CoreCompileInputs.cache
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.MvcApplicationPartsAssemblyInfo.cache
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.RazorAssemblyInfo.cache
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.RazorAssemblyInfo.cs
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\staticwebassets\msbuild.Student Management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\staticwebassets\msbuild.build.Student Management.props
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Student Management.props
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Student Management.props
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\staticwebassets.pack.json
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\staticwebassets.build.json
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\staticwebassets.development.json
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\scopedcss\bundle\Student Management.styles.css
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\scopedcss\projectbundle\Student Management.bundle.scp.css
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.dll
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\refint\Student Management.dll
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.pdb
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.genruntimeconfig.cache
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\ref\Student Management.dll
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.csproj.AssemblyReference.cache
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Azure.Core.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Azure.Identity.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Humanizer.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.CodeDom.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Memory.Data.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Text.Json.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\WEB\c#\Student Management\Student Management\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\WEB\c#\Student Management\Student Management\obj\Debug\net6.0\Student Management.csproj.CopyComplete
